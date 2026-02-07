@@ -1,0 +1,29 @@
+stages:
+  preprocess:
+    cmd: python src/preprocessing.py
+    deps:
+      - src/preprocessing.py
+      - data/raw/hr_data.csv
+    outs:
+      - data/processed/train.csv
+      - data/processed/test.csv
+
+  feature_selection:
+    cmd: python src/feature_selection.py
+    deps:
+      - src/feature_selection.py
+      - data/processed/train.csv
+    outs:
+      - data/processed/selected_features.csv
+
+  train:
+    cmd: python src/train_model.py
+    deps:
+      - src/train_model.py
+      - data/processed/selected_features.csv
+
+  evaluate:
+    cmd: python src/evaluate_model.py
+    deps:
+      - src/evaluate_model.py
+      - data/processed/test.csv

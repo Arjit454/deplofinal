@@ -1,0 +1,17 @@
+data:
+  raw_path: data/raw/hr_data.csv
+  train_path: data/processed/train.csv
+  test_path: data/processed/test.csv
+  selected_path: data/processed/selected_features.csv
+
+preprocessing:
+  test_size: 0.2
+  random_state: 42
+
+feature_selection:
+  correlation_threshold: 0.1
+
+model:
+  name: logistic_regression
+  max_iter: 1000
+  C: 1.0

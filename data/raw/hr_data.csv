@@ -1,0 +1,101 @@
+EmployeeID,Age,Gender,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime,PerformanceRating,TrainingTimesLastYear,Attrition
+1,28,Male,IT,Software Engineer,45000,2,3,2,Yes,3,2,Yes
+2,35,Female,HR,HR Manager,52000,6,4,3,No,4,3,No
+3,42,Male,Sales,Sales Executive,38000,5,2,2,Yes,3,1,Yes
+4,30,Female,IT,Data Analyst,48000,3,3,3,No,3,2,No
+5,50,Male,HR,Recruiter,60000,10,4,4,No,4,4,No
+6,26,Female,Sales,Sales Representative,30000,1,1,1,Yes,2,1,Yes
+7,39,Male,IT,System Admin,55000,7,3,3,No,3,2,No
+8,33,Female,IT,ML Engineer,70000,4,4,3,No,4,3,No
+9,45,Male,Sales,Sales Manager,65000,8,3,2,Yes,3,2,Yes
+10,29,Female,HR,HR Executive,42000,2,2,2,No,3,1,No
+11,31,Male,IT,Backend Developer,50000,3,3,3,Yes,3,2,Yes
+12,41,Female,Sales,Account Manager,62000,6,4,4,No,4,3,No
+13,27,Male,IT,Frontend Developer,46000,2,2,2,Yes,3,1,Yes
+14,36,Female,HR,HR Analyst,54000,5,3,3,No,3,2,No
+15,32,Male,Department,HR Analyst,23000,4,3,2,No,3,2,No
+16,32,Male,IT,Software Engineer,52000,4,3,3,No,3,2,No
+17,29,Female,Sales,Sales Executive,36000,2,2,2,Yes,3,1,Yes
+18,45,Male,HR,HR Manager,65000,8,4,4,No,4,3,No
+19,27,Male,IT,Data Analyst,44000,1,2,2,Yes,3,1,Yes
+20,38,Female,Sales,Account Manager,58000,6,3,3,No,3,2,No
+21,34,Male,IT,Backend Developer,51000,5,3,3,No,3,2,No
+22,41,Female,HR,HR Analyst,56000,7,4,3,No,4,3,No
+23,26,Male,Sales,Sales Representative,32000,1,1,1,Yes,2,1,Yes
+24,48,Male,IT,System Admin,60000,10,4,3,No,4,4,No
+25,31,Female,IT,Frontend Developer,47000,3,3,3,No,3,2,No
+26,37,Male,Sales,Sales Executive,42000,5,2,2,Yes,3,1,Yes
+27,44,Female,HR,Recruiter,59000,9,4,4,No,4,3,No
+28,28,Male,IT,ML Engineer,68000,2,3,2,Yes,3,2,Yes
+29,35,Female,Sales,Sales Manager,64000,6,3,3,No,4,3,No
+30,50,Male,HR,HR Director,78000,12,4,4,No,4,4,No
+31,33,Male,IT,Software Engineer,53000,4,3,3,No,3,2,No
+32,29,Female,Sales,Sales Executive,37000,2,2,2,Yes,3,1,Yes
+33,46,Male,IT,System Architect,75000,11,4,4,No,4,4,No
+34,27,Female,HR,HR Executive,41000,1,2,2,Yes,3,1,Yes
+35,39,Male,Sales,Account Manager,60000,7,3,3,No,3,2,No
+36,42,Female,IT,Data Scientist,72000,8,4,3,No,4,3,No
+37,30,Male,IT,Backend Developer,49000,3,3,3,No,3,2,No
+38,26,Female,Sales,Sales Representative,31000,1,1,1,Yes,2,1,Yes
+39,47,Male,HR,HR Manager,68000,9,4,4,No,4,3,No
+40,34,Female,IT,UI/UX Designer,52000,5,3,3,No,3,2,No
+41,28,Male,Sales,Sales Executive,35000,2,2,2,Yes,3,1,Yes
+42,52,Female,HR,Senior Recruiter,73000,14,4,4,No,4,4,No
+43,36,Male,IT,DevOps Engineer,64000,6,3,3,No,3,2,No
+44,31,Female,Sales,Account Executive,45000,3,3,3,No,3,2,No
+45,25,Male,IT,Intern,25000,1,1,1,Yes,2,1,Yes
+46,49,Female,HR,HR Business Partner,70000,11,4,4,No,4,3,No
+47,38,Male,Sales,Sales Manager,66000,7,3,3,No,4,3,No
+48,29,Female,IT,QA Engineer,48000,2,2,2,Yes,3,1,Yes
+49,41,Male,IT,Project Manager,69000,8,4,3,No,4,3,No
+50,33,Female,HR,HR Analyst,54000,5,3,3,No,3,2,No
+51,27,Male,Sales,Sales Executive,34000,2,2,2,Yes,3,1,Yes
+52,45,Female,IT,Data Architect,76000,10,4,4,No,4,4,No
+53,37,Male,IT,Software Engineer,56000,6,3,3,No,3,2,No
+54,31,Female,Sales,Sales Representative,39000,3,2,2,Yes,3,1,Yes
+55,48,Male,HR,HR Manager,72000,12,4,4,No,4,4,No
+56,35,Female,IT,Product Owner,63000,5,3,3,No,3,2,No
+57,26,Male,Sales,Sales Executive,33000,1,1,1,Yes,2,1,Yes
+58,44,Female,IT,Scrum Master,68000,9,4,4,No,4,3,No
+59,39,Male,HR,Recruiter,58000,7,3,3,No,3,2,No
+60,32,Female,IT,Business Analyst,52000,4,3,3,No,3,2,No
+61,28,Male,Sales,Sales Executive,36000,2,2,2,Yes,3,1,Yes
+62,51,Female,HR,HR Director,80000,15,4,4,No,4,4,No
+63,34,Male,IT,Cloud Engineer,65000,6,3,3,No,3,2,No
+64,30,Female,Sales,Account Manager,48000,3,3,3,No,3,2,No
+65,24,Male,IT,Trainee,22000,1,1,1,Yes,2,1,Yes
+66,46,Female,HR,HR Manager,71000,10,4,4,No,4,3,No
+67,38,Male,Sales,Sales Manager,67000,7,3,3,No,4,3,No
+68,29,Female,IT,UI Designer,50000,2,2,2,Yes,3,1,Yes
+69,43,Male,IT,Technical Lead,73000,9,4,4,No,4,3,No
+70,36,Female,HR,HR Analyst,56000,6,3,3,No,3,2,No
+71,27,Male,Sales,Sales Executive,35000,2,2,2,Yes,3,1,Yes
+72,50,Female,IT,IT Manager,78000,12,4,4,No,4,4,No
+73,35,Male,IT,Software Tester,52000,5,3,3,No,3,2,No
+74,31,Female,Sales,Sales Representative,40000,3,2,2,Yes,3,1,Yes
+75,47,Male,HR,HR Business Partner,74000,11,4,4,No,4,3,No
+76,34,Female,IT,Product Manager,66000,6,3,3,No,3,2,No
+77,25,Male,Sales,Sales Executive,32000,1,1,1,Yes,2,1,Yes
+78,42,Female,IT,Data Scientist,74000,8,4,4,No,4,3,No
+79,39,Male,HR,Recruiter,60000,7,3,3,No,3,2,No
+80,33,Female,IT,Business Analyst,54000,4,3,3,No,3,2,No
+81,28,Male,Sales,Sales Executive,36000,2,2,2,Yes,3,1,Yes
+82,52,Female,HR,HR Director,82000,16,4,4,No,4,4,No
+83,36,Male,IT,DevOps Engineer,67000,6,3,3,No,3,2,No
+84,30,Female,Sales,Account Executive,46000,3,3,3,No,3,2,No
+85,26,Male,IT,Junior Developer,42000,2,2,2,Yes,3,1,Yes
+86,48,Female,HR,HR Manager,75000,12,4,4,No,4,4,No
+87,37,Male,Sales,Sales Manager,68000,7,3,3,No,4,3,No
+88,29,Female,IT,QA Analyst,49000,2,2,2,Yes,3,1,Yes
+89,41,Male,IT,Program Manager,71000,8,4,4,No,4,3,No
+90,35,Female,HR,HR Analyst,57000,6,3,3,No,3,2,No
+91,27,Male,Sales,Sales Executive,34000,2,2,2,Yes,3,1,Yes
+92,50,Female,IT,IT Director,85000,15,4,4,No,4,4,No
+93,38,Male,IT,Software Engineer,58000,6,3,3,No,3,2,No
+94,32,Female,Sales,Account Manager,52000,4,3,3,No,3,2,No
+95,24,Male,IT,Trainee,24000,1,1,1,Yes,2,1,Yes
+96,46,Female,HR,HR Business Partner,72000,10,4,4,No,4,3,No
+97,39,Male,Sales,Sales Manager,69000,8,3,3,No,4,3,No
+98,28,Female,IT,UI Developer,51000,2,2,2,Yes,3,1,Yes
+99,43,Male,IT,Solution Architect,76000,9,4,4,No,4,3,No
+100,36,Female,HR,HR Analyst,59000,6,3,3,No,3,2,No
